@@ -25,7 +25,7 @@ public class calculadora {
         System.out.println("A soma é igual a: " + soma);
         System.out.println("A subtracao é igual a: " + subtracao);
         System.out.println(" A multiplicacao é igual a: " + multiplicacao);
-        System.out.println("O modulo é: " + + modulo);
+        System.out.println("teste");
 
 
 
